@@ -1,10 +1,10 @@
 Hello there!
 
-Eu sou Luiz Fernando! Sou professor de inglês e estou migrando para a área dev.
+Eu sou Luiz Fernando! Sou professor de inglês e estou migrando para a área Dev.
 
-Amo ensinar inglês e amo aprender coisas novas. A maioria dos meus alunos vem de áreas diversas dentro da tecnologia, e foi isso que me aproximou dessa jornada como dev.
+Amo ensinar inglês e amo aprender coisas novas. A maioria dos meus alunos vem de áreas diversas dentro da tecnologia, e foi isso que me aproximou dessa jornada como Dev.
 
-Comecei um curso de fullstack, mas atualmente estou focando meus estudos em Python e SQL, com o objetivo de me tornar Engenheiro de Dados.
+Comecei um curso de Fullstack, mas atualmente estou focando meus estudos em Python e SQL, com o objetivo de me tornar Engenheiro de Dados.
 
 
 📫 Como me encontrar: @luizfernandodossantosviana
