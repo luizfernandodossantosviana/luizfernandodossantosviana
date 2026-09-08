@@ -1,13 +1,21 @@
 Hello there!
 
-Eu sou Luiz Fernando! Sou professor de inglês e estou migrando para a área Dev.
+Me chamo Luiz Fernando! Sou professor particular de inglês 
+e estou migrando para a área de tecnologia.
 
-Amo ensinar inglês e amo aprender coisas novas. A maioria dos meus alunos vem de áreas diversas dentro da tecnologia, e foi isso que me aproximou dessa jornada como Dev.
 
-Comecei um curso de Fullstack, mas atualmente estou focando meus estudos em Python e SQL, com o objetivo de me tornar Engenheiro de Dados.
+Amo ensinar inglês e amo aprender coisas novas. 
+Grande parte dos meus alunos vem de áreas diversas dentro da tecnologia, 
+e foi isso que me aproximou dessa jornada como Dev.
+
+
+Atualmente estou em um curso Fullstack, mas desejo focar meus estudos em Python e SQL, 
+com o objetivo de me tornar Engenheiro de Dados.
+
 
 
 📫 Como me encontrar: @luizfernandodossantosviana
+
 
 Conecte-se comigo:
 <p align="left"> <a href="https://www.linkedin.com/in/luiz-fernando-dos-santos-viana/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
